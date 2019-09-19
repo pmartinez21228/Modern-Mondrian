@@ -59,7 +59,6 @@ body, html {
 #divider4 {
     height: 10px;
     width: 20px;
-    margin-top: 45px;
 }
 #bottomrow {
     height: 100px;
@@ -83,4 +82,8 @@ body, html {
 #bottommiddle{
     width: 260px;
     height: 100px;
+}
+.smallbox {
+    height: 45px;
+    width: 20px;
 }
